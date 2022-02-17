@@ -1,5 +1,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Day One :
+![DayOn/30](https://user-images.githubusercontent.com/73140258/154380406-c67c04b1-ac01-43e5-a27a-4ac998432f1c.gif)
+
+
+<!-- ![roadTo30d](https://discord.com/channels/422025458083692564/943626080219193384/943655036947431434 "day1/30")
+<img src="https://discord.com/channels/422025458083692564/943626080219193384/943655036947431434"
+     alt="Day one/30"
+     style="float: left; margin-right: 10px;" /> -->
 
 <!--
 **Wabtey/Wabtey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
