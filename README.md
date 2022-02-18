@@ -1,13 +1,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Day Two : (from 16/02)  
-![DayTwo/30](https://user-images.githubusercontent.com/73140258/154494946-d137126f-e2cc-4b7b-8eb5-1e930df01a4d.gif)
+Day Three : (from 16/02 -> 17/02)  
+![Day3/30](https://user-images.githubusercontent.com/73140258/154727721-69db9ddd-c336-488a-9ac2-d2429556edda.gif)
+
 <!--
 List of Tutorial followed :
 
 day one : https://www.youtube.com/watch?v=_05or04sGAo and https://www.youtube.com/watch?v=4-RoG6unETU
 day two : https://www.youtube.com/watch?v=Zz1hbdYxak0
-day three :
+day three : https://www.youtube.com/watch?v=Hs5ecTs5NU8
+day four :
 -->
 
 
