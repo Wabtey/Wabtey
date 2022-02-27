@@ -17,4 +17,5 @@ day sixe : https://www.youtube.com/watch?v=QCYtTx-N4UA
 day seven : Toad skip from John Muir Laws (https://johnmuirlaws.com/how-to-draw-frogs/)
 day eight : https://www.youtube.com/watch?v=WH2OpjmSeik (did on 23/02 close to skip it :o)
 day nine : https://www.youtube.com/watch?v=WH2OpjmSeik (same as eight but second pose)
+Mas skip
 -->
