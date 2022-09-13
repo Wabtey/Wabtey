@@ -15,8 +15,10 @@
 [1]:  https://user-images.githubusercontent.com/73140258/180214756-c8391d73-da8a-48bb-ae6b-b9ae5f8dcda6.png
 [2]:  https://wabtey.github.io "Danger Zone"
 
-[3]: https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&exclude_repo=github-readme-stats,public_html
-
+[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&exclude_repo=github-readme-stats,public_html
+<!--
+https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&exclude_repo=github-readme-stats,public_html
+-->
 [4]: https://github.com/anuraghazra/github-readme-stats/issues/1#issuecomment-981419174
 
 <!-- &exclude_repo=github-readme-stats -->
