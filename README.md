@@ -4,7 +4,7 @@
 
 [![Top Langs][3]](https://github.com/anuraghazra/github-readme-stats)
 
-*I'm not sure if the org's repertories are count in (despite [[these steps][4]])*
+*I'm not sure if the org's repertories are count in (despite [these steps][4])*
 *Maybe a pb with my pat*
 
 <!--
