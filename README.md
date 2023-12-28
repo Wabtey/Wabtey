@@ -2,6 +2,8 @@
 
 [![Drawing pad][1]][2]
 
+[![Gitlab account](https://img.shields.io/badge/Gitlab-work-lightblue?style=flat&logo=gitlab)](https://gitlab.istic.univ-rennes1.fr/Wabtey)
+
 ## Flexing Metrics Zone
 
 [![Top Langs][3]](https://github.com/anuraghazra/github-readme-stats)
