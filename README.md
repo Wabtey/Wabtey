@@ -2,8 +2,6 @@
 
 [![Drawing pad][1]][2]
 
-[![Gitlab account](https://img.shields.io/badge/Gitlab-work-lightblue?style=flat&logo=gitlab)](https://gitlab.istic.univ-rennes1.fr/Wabtey)
-
 ## Flexing Metrics Zone
 
 [![Top Langs][3]](https://github.com/anuraghazra/github-readme-stats)
@@ -34,6 +32,14 @@ https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Wabtey&the
 [![Readme Card][7]](https://github.com/Fabinistere/cats_destroyer_2000)
 [![Readme Card][8]](https://github.com/Fabinistere/grandstand-gauntlet)
 [![Readme Card][9]](https://github.com/Wabtey/Natureable)
+
+## Research
+
+[![Gitlab account](https://img.shields.io/badge/Gitlab-work-lightblue?style=flat&logo=gitlab)](https://gitlab.istic.univ-rennes1.fr/Wabtey)
+
+### IRIT at LILaC
+
+Implemented an abductive explanation search algorithm on top of a [Causal Model Checker](https://gitlab.istic.univ-rennes1.fr/Wabtey/cmc).
 
 [1]:  https://user-images.githubusercontent.com/73140258/180214756-c8391d73-da8a-48bb-ae6b-b9ae5f8dcda6.png
 [2]:  https://wabtey.github.io "Danger Zone"
