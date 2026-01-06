@@ -35,11 +35,11 @@ https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Wabtey&the
 
 ## Research
 
-[![Gitlab account](https://img.shields.io/badge/Gitlab-work-lightblue?style=flat&logo=gitlab)](https://gitlab2.istic.univ-rennes1.fr/Wabtey)
+[![Gitlab account](https://img.shields.io/badge/Gitlab-work-lightblue?style=flat&logo=gitlab)](https://gitlab.com/Wabtey)
 
 ### IRIT at LILaC
 
-Implemented an abductive explanation search algorithm on top of a [Causal Model Checker](https://gitlab2.istic.univ-rennes1.fr/Wabtey/cmc).
+Implemented an abductive explanation search algorithm on top of a [Causal Model Checker](https://gitlab.com/Wabtey/causal-model-checker).
 
 [1]:  https://user-images.githubusercontent.com/73140258/180214756-c8391d73-da8a-48bb-ae6b-b9ae5f8dcda6.png
 [2]:  https://wabtey.github.io "Danger Zone"
