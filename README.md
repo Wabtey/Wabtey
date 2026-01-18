@@ -26,7 +26,7 @@ https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Wabtey&the
 
 ## Pinned
 
-[![Readme Card - FTO][4]](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
+[![Readme Card - FTO][4]](https://github.com/Fabinistere/fabien-et-la-trahison-de-olf)
 [![Readme Card - Fight Arena][5]](https://github.com/Fabinistere/fight_arena)
 [![Readme Card - Turn Based Combat][6]](https://github.com/Fabinistere/bevy_turn-based_combat)
 [![Readme Card - Cats Destroyer 2000][7]](https://github.com/Fabinistere/cats_destroyer_2000)
@@ -46,9 +46,9 @@ Implemented an abductive explanation search algorithm on top of a [Causal Model 
 
 [3]: https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-stats,public_html
 
-[4]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=fabien-et-la-trahison-de-olf&theme=dark
-[5]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=fight_arena&theme=dark
-[6]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
-[7]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=cats_destroyer_2000&theme=dark
-[8]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=grandstand-gauntlet&theme=dark
-[9]: https://github-readme-stats.vercel.app/api/pin/?username=Wabtey&repo=Natureable&theme=dark
+[4]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=fabien-et-la-trahison-de-olf&theme=dark
+[5]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=fight_arena&theme=dark
+[6]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
+[7]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=cats_destroyer_2000&theme=dark
+[8]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=grandstand-gauntlet&theme=dark
+[9]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Wabtey&repo=Natureable&theme=dark
